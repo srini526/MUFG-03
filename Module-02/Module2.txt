@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 trying to add my files to git
+=======
+
+>>>>>>> f3b798ee8d388b2b524df39ca3623bbbfa00908f
